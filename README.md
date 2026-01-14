@@ -23,7 +23,7 @@
 
 ---
 
-## 💻 Tech Arsenal
+## 💻 Skills
 
 ### 👨‍💻 Languages
 <p>
@@ -60,9 +60,14 @@
 ## 🏆 Highlights
 
 🏅 **Smart India Hackathon 2024 – Finalist**  
-📈 Consistently **Top 10 SGPA holder**  
 🧠 Solved **300+ DSA problems** on LeetCode & HackerRank  
-👨‍💼 Technical & Social Media Head (College Tech Club)  
+
+ ## 📊 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=Shamba_saha&theme=dark" />
+</p>
+
 
 ---
 
