@@ -65,7 +65,7 @@
  ## 📊 LeetCode Progress
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Shamba_saha&theme=dark" />
+  <img src="https://leetcard.jacoblin.cool/Shamba_saha?theme=dark&font=baloo" />
 </p>
 
 
