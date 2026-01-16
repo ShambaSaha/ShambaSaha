@@ -3,7 +3,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shamba-saha-564755281/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/ShambaSaha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+ <a href="https://shambasaha.vercel.app/">
+  <img src="https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="My Vercel Portfolio"/>
+</a>
   <a href="https://leetcode.com/u/Shamba_saha/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange"/></a>
   <a href="mailto:shambasaha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
@@ -19,7 +21,7 @@
 🔥 Software Engineer passionate about **building scalable web applications**  
 🧩 Strong foundation in **DSA, problem-solving, and core CS fundamentals**  
 ⚙️ Experienced in **designing REST APIs and full-stack systems**  
-🚀 Thrive in fast-paced environments and love learning new technologies  
+🚀 Enjoy learning new technologies  
 
 ---
 
@@ -32,7 +34,7 @@
 
 ### 🌐 Full-Stack Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwindcss" />
 </p>
 
 ### 🗄️ Databases
@@ -52,8 +54,8 @@
 ✔ Data Structures & Algorithms  
 ✔ Object-Oriented Programming (OOPS)  
 ✔ DBMS & Operating Systems  
-✔ Software Engineering & DAA  
-✔ Problem-Solving & Logical Thinking  
+✔ Problem-Solving & Logical Thinking 
+✔ Full Stack Developement
 
 ---
 
