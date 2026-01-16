@@ -77,11 +77,11 @@
 ## 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShambaSaha&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShambaSaha&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShambaSaha&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=ShambaSaha&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
