@@ -77,16 +77,18 @@
 ## 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShambaSaha&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShambaSaha&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ShambaSaha&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=ShambaSaha&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShambaSaha&show_icons=true&theme=tokyonight" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShambaSaha&layout=compact&theme=dark&hide_border=true" />
-</p>
 
 ---
 
